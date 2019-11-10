@@ -1,0 +1,9 @@
+.done{
+	text-decoration: line-through;
+}
+.not_done{
+	color:black;
+	height: 30px;
+	
+
+}
