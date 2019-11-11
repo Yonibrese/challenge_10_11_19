@@ -4,7 +4,7 @@ var input_1 = document.createElement("input");
 var button_add = document.createElement("button");
 var button_clear = document.createElement("button");
 var list = document.createElement("ul");
-var button_test=document.createElement("button");
+
 
 groot.appendChild(h1);
 h1.innerHTML="Shopping list";
